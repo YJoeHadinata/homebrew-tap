@@ -1,6 +1,6 @@
 cask "memora" do
-  version "0.2.0"
-  sha256 "1bea332cc9bd36d447376735c5fe1bc9cc3330215f28ce337299d0b1676ab00c"
+  version "0.3.0"
+  sha256 "c39e92d7c0f8bc2d81e3c6c60c135a48e1114279326475c16280917f6447f0c7"
 
   url "https://github.com/YJoeHadinata/memora/releases/download/v#{version}/Memora-#{version}.dmg"
   name "Memora"
